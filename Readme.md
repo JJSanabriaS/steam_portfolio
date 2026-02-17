@@ -22,5 +22,5 @@ I am passionate about clean code, continuous improvement, and delivering measura
 
 |   |  |
 |---|--|
-|Portfolio until 2014 |![comparative sample ](/portfolio20002014.png)|
-|Portfolio since 2015 |![database sample ](/portfolio2015now.png)| 
+|Portfolio until 2014 |![database sample ](/portfolio2015now.png)|
+|Portfolio since 2015 |![comparative sample ](/portfolio20002014.png)| 
